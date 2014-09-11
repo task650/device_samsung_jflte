@@ -7,6 +7,8 @@ persist.audio.vr.enable=false
 persist.audio.handset.mic=digital
 persist.audio.speaker.location=high
 ro.qc.sdk.audio.fluencetype=fluence
+persist.call_recording.enabled=true
+persist.call_recording.src=4
 
 # display
 ro.hwui.text_cache_width=2048
